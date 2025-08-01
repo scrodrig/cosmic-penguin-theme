@@ -19,9 +19,19 @@ Alternatively, you can install it directly from the [Visual Studio Code Marketpl
 - Perfect for long coding sessions with a focus on providing both readability and visual appeal.
 - Ideal for developers who love working with dark themes but enjoy some vibrant color pops.
 
-## Preview
+## Screenshots
 
-<!-- ![Cosmic Penguin Theme Preview](./preview.png) -->
+## Palette
+| Color                                | Usage                                                                                          |
+|-------------------------------------|------------------------------------------------------------------------------------------------|
+| <code style="color:#10191d">#10191d</code> | 1. <code>editor.background</code> <br> 2. <code>sideBarSectionHeader.background</code> <br> 3. <code>sideBar.background</code> <br> 4. <code>statusBar.background</code> <br> 5. <code>titleBar.inactiveBackground</code> <br> 6. <code>tab.inactiveBackground</code> |
+| <code style="color:#FF5370">#FF5370</code> | 1. <code>editor.foreground</code> <br> 2. <code>editorCursor.foreground</code> <br> 3. <code>activityBar.activeBorder</code> <br> 4. <code>tab.dragAndDropBorder</code> |
+| <code style="color:#82AAFF">#82AAFF</code> | 1. <code>activityBarBadge.background</code> <br> 2. <code>sideBarTitle.foreground</code> <br> 3. <code>sideBarSectionHeader.foreground</code> <br> 4. <code>statusBarItem.activeBackground</code> <br> 5. <code>statusBarItem.prominentBackground</code> <br> 6. <code>editorLineNumber.foreground</code> <br> 7. <code>editorBracketMatch.border</code> |
+| <code style="color:#f5f4f3">#f5f4f3</code> | 1. <code>sideBar.foreground</code> <br> 2. <code>statusBar.foreground</code> <br> 3. <code>activityBar.foreground</code> <br> 4. <code>menubar.selectionForeground</code> <br> 5. <code>titleBar.activeForeground</code> <br> 6. <code>tab.activeForeground</code> |
+| <code style="color:#379ED1">#379ED1</code> | 1. <code>statusBarItem.hoverBackground</code> <br> 2. <code>statusBarItem.prominentHoverBackground</code> <br> 3. <code>editor.selectionBackground</code> <br> 4. <code>editor.findMatchBackground</code> <br> 5. <code>editorBracketMatch.background</code> <br> 6. <code>menubar.selectionBackground</code> |
+| <code style="color:#546E7A">#546E7A</code> | 1. <code>editorWhitespace.foreground</code> |
+| <code style="color:#142025">#142025</code> | 1. <code>activityBar.background</code> <br> 2. <code>titleBar.activeBackground</code> |
+| <code style="color:#1b1708">#1b1708</code> | 1. <code>tab.activeBackground</code> |
 
 ## Usage
 
