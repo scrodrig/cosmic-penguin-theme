@@ -2,39 +2,39 @@
   "name": "Cosmic Penguin Theme",
   "colors": {
     "editor.background": "#10191d",
-    "editor.foreground": "#f53c0e",
-    "activityBarBadge.background": "#0296f8",
-    "sideBarTitle.foreground": "#e4ecf5",
-		"sideBarSectionHeader.background": "#10191d",
-		"sideBarSectionHeader.foreground": "#e4ecf5",
-		"sideBar.background": "#10191d",
-		"sideBar.foreground": "#e4ecf5",
-		"statusBar.background": "#10191d",
-		"statusBar.foreground": "#e4ecf5",
-		"statusBarItem.hoverBackground": "#3dabf5",
-		"statusBarItem.activeBackground": "#0296f8",
-		"statusBarItem.prominentBackground": "#0296f8",
-		"statusBarItem.prominentHoverBackground": "#3dabf5",
-		"editorLineNumber.foreground": "#f2f5f7",
-		"editorCursor.foreground": "#fcf8f7",
-		"editor.selectionBackground": "#198188",
-    "editor.findMatchBackground": "#116369",
-    "editorBracketMatch.background": "#1f3b3d",
-    "editorBracketMatch.border": "#c6e6e9",
+    "editor.foreground": "#FF5370",
+    "activityBarBadge.background": "#82AAFF",
+    "sideBarTitle.foreground": "#82AAFF",
+    "sideBarSectionHeader.background": "#10191d",
+    "sideBarSectionHeader.foreground": "#82AAFF",
+    "sideBar.background": "#10191d",
+    "sideBar.foreground": "#f5f4f3",
+    "statusBar.background": "#10191d",
+    "statusBar.foreground": "#f5f4f3",
+    "statusBarItem.hoverBackground": "#379ED1",
+    "statusBarItem.activeBackground": "#82AAFF",
+    "statusBarItem.prominentBackground": "#82AAFF",
+    "statusBarItem.prominentHoverBackground": "#379ED1",
+    "editorLineNumber.foreground": "#82AAFF",
+    "editorCursor.foreground": "#FF5370",
+    "editor.selectionBackground": "#379ED1",
+    "editor.findMatchBackground": "#379ED1",
+    "editorBracketMatch.background": "#379ED1",
+    "editorBracketMatch.border": "#82AAFF",
     "editorWhitespace.foreground": "#546E7A",
     "activityBar.background": "#142025",
     "activityBar.foreground": "#f5f4f3",
-    "activityBar.activeBorder": "#f0b803",
-    "menubar.selectionBackground": "#1f3b3d",
+    "activityBar.activeBorder": "#FF5370",
+    "menubar.selectionBackground": "#379ED1",
     "menubar.selectionForeground": "#f5f4f3",
-    "menubar.selectionBorder": "#f0b803",
+    "menubar.selectionBorder": "#FF5370",
     "titleBar.activeBackground": "#142025",
     "titleBar.activeForeground": "#f5f4f3",
     "titleBar.inactiveBackground": "#10191d",
-    "tab.dragAndDropBorder": "#f0b803",
+    "tab.dragAndDropBorder": "#FF5370",
     "tab.activeBackground": "#1b1708",
     "tab.activeForeground": "#f5f4f3",
-    "tab.inactiveBackground": "#10191d",
+    "tab.inactiveBackground": "#10191d"
   },
   "tokenColors": [
     {
@@ -201,7 +201,7 @@
       ],
       "settings": {
         "foreground": "#b36af8",
-				"fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -313,7 +313,7 @@
       "scope": ["*url*", "*link*", "*uri*"],
       "settings": {
         "fontStyle": "underline",
-				"foreground": "#45f0fc"
+        "foreground": "#45f0fc"
       }
     },
     {
@@ -344,7 +344,7 @@
       ],
       "settings": {
         "foreground": "#6bb7f5",
-				"fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
