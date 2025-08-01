@@ -1,4 +1,4 @@
-# Cosmic Penguin Theme 🚀🐧
+# Cosmic Penguin Theme 🚀🐧 [VSCode 💙📟]
 
 Cosmic Penguin Theme is a sleek, dark theme for **Visual Studio Code** inspired by the cosmos. It combines deep, space-like colors with vibrant accents to keep your workspace both focused and energetic.
 
