@@ -22,16 +22,17 @@ Alternatively, you can install it directly from the [Visual Studio Code Marketpl
 ## Screenshots
 
 ## Palette
-| Color                                | Usage                                                                                          |
-|-------------------------------------|------------------------------------------------------------------------------------------------|
-| <code style="color:#10191d">#10191d</code> | 1. <code>editor.background</code> <br> 2. <code>sideBarSectionHeader.background</code> <br> 3. <code>sideBar.background</code> <br> 4. <code>statusBar.background</code> <br> 5. <code>titleBar.inactiveBackground</code> <br> 6. <code>tab.inactiveBackground</code> |
-| <code style="color:#FF5370">#FF5370</code> | 1. <code>editor.foreground</code> <br> 2. <code>editorCursor.foreground</code> <br> 3. <code>activityBar.activeBorder</code> <br> 4. <code>tab.dragAndDropBorder</code> |
-| <code style="color:#82AAFF">#82AAFF</code> | 1. <code>activityBarBadge.background</code> <br> 2. <code>sideBarTitle.foreground</code> <br> 3. <code>sideBarSectionHeader.foreground</code> <br> 4. <code>statusBarItem.activeBackground</code> <br> 5. <code>statusBarItem.prominentBackground</code> <br> 6. <code>editorLineNumber.foreground</code> <br> 7. <code>editorBracketMatch.border</code> |
-| <code style="color:#f5f4f3">#f5f4f3</code> | 1. <code>sideBar.foreground</code> <br> 2. <code>statusBar.foreground</code> <br> 3. <code>activityBar.foreground</code> <br> 4. <code>menubar.selectionForeground</code> <br> 5. <code>titleBar.activeForeground</code> <br> 6. <code>tab.activeForeground</code> |
-| <code style="color:#379ED1">#379ED1</code> | 1. <code>statusBarItem.hoverBackground</code> <br> 2. <code>statusBarItem.prominentHoverBackground</code> <br> 3. <code>editor.selectionBackground</code> <br> 4. <code>editor.findMatchBackground</code> <br> 5. <code>editorBracketMatch.background</code> <br> 6. <code>menubar.selectionBackground</code> |
-| <code style="color:#546E7A">#546E7A</code> | 1. <code>editorWhitespace.foreground</code> |
-| <code style="color:#142025">#142025</code> | 1. <code>activityBar.background</code> <br> 2. <code>titleBar.activeBackground</code> |
-| <code style="color:#1b1708">#1b1708</code> | 1. <code>tab.activeBackground</code> |
+
+| Color    | Usages                                         |
+|----------|------------------------------------------------|
+| `#10191d` 🖤 | 1. `editor.background` <br> 2. `sideBarSectionHeader.background` <br> 3. `sideBar.background` <br> 4. `statusBar.background` <br> 5. `titleBar.inactiveBackground` <br> 6. `tab.inactiveBackground` |
+| `#FF5370` 🌸 | 1. `editor.foreground` <br> 2. `editorCursor.foreground` <br> 3. `activityBar.activeBorder` <br> 4. `tab.dragAndDropBorder` |
+| `#82AAFF` 💙 | 1. `activityBarBadge.background` <br> 2. `sideBarTitle.foreground` <br> 3. `sideBarSectionHeader.foreground` <br> 4. `statusBarItem.activeBackground` <br> 5. `statusBarItem.prominentBackground` <br> 6. `editorLineNumber.foreground` <br> 7. `editorBracketMatch.border` |
+| `#f5f4f3` 🤍 | 1. `sideBar.foreground` <br> 2. `statusBar.foreground` <br> 3. `activityBar.foreground` <br> 4. `menubar.selectionForeground` <br> 5. `titleBar.activeForeground` <br> 6. `tab.activeForeground` |
+| `#379ED1` 🔹 | 1. `statusBarItem.hoverBackground` <br> 2. `statusBarItem.prominentHoverBackground` <br> 3. `editor.selectionBackground` <br> 4. `editor.findMatchBackground` <br> 5. `editorBracketMatch.background` <br> 6. `menubar.selectionBackground` |
+| `#546E7A` 🌫️ | 1. `editorWhitespace.foreground` |
+| `#142025` 🌑 | 1. `activityBar.background` <br> 2. `titleBar.activeBackground` |
+| `#1b1708` 🌰 | 1. `tab.activeBackground` |
 
 ## Usage
 
