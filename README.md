@@ -2,9 +2,9 @@
 
 Cosmic Penguin Theme is a sleek, dark theme for **Visual Studio Code** inspired by the cosmos. It combines deep, space-like colors with vibrant accents to keep your workspace both focused and energetic.
 
-
-<img width="1024" height="1536" alt="CosmicPenguin" src="https://github.com/user-attachments/assets/0d74d19e-9fbe-4073-b90d-2ab95e0c8c0c" />
-
+<p align="center">
+<img  width="300" height="450" alt="CosmicPenguin" src="https://github.com/user-attachments/assets/0d74d19e-9fbe-4073-b90d-2ab95e0c8c0c" />
+</p>
 
 ## Installation
 
@@ -27,16 +27,16 @@ Alternatively, you can install it directly from the [Visual Studio Code Marketpl
 
 ## Palette
 
-| Color    | Usages                                         |
-|----------|------------------------------------------------|
-| `#10191d` 🖤 | 1. `editor.background` <br> 2. `sideBarSectionHeader.background` <br> 3. `sideBar.background` <br> 4. `statusBar.background` <br> 5. `titleBar.inactiveBackground` <br> 6. `tab.inactiveBackground` |
-| `#FF5370` 🌸 | 1. `editor.foreground` <br> 2. `editorCursor.foreground` <br> 3. `activityBar.activeBorder` <br> 4. `tab.dragAndDropBorder` |
+| Color        | Usages                                                                                                                                                                                                                                                                      |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#10191d` 🖤 | 1. `editor.background` <br> 2. `sideBarSectionHeader.background` <br> 3. `sideBar.background` <br> 4. `statusBar.background` <br> 5. `titleBar.inactiveBackground` <br> 6. `tab.inactiveBackground`                                                                         |
+| `#FF5370` 🌸 | 1. `editor.foreground` <br> 2. `editorCursor.foreground` <br> 3. `activityBar.activeBorder` <br> 4. `tab.dragAndDropBorder`                                                                                                                                                 |
 | `#82AAFF` 💙 | 1. `activityBarBadge.background` <br> 2. `sideBarTitle.foreground` <br> 3. `sideBarSectionHeader.foreground` <br> 4. `statusBarItem.activeBackground` <br> 5. `statusBarItem.prominentBackground` <br> 6. `editorLineNumber.foreground` <br> 7. `editorBracketMatch.border` |
-| `#f5f4f3` 🤍 | 1. `sideBar.foreground` <br> 2. `statusBar.foreground` <br> 3. `activityBar.foreground` <br> 4. `menubar.selectionForeground` <br> 5. `titleBar.activeForeground` <br> 6. `tab.activeForeground` |
-| `#379ED1` 🔹 | 1. `statusBarItem.hoverBackground` <br> 2. `statusBarItem.prominentHoverBackground` <br> 3. `editor.selectionBackground` <br> 4. `editor.findMatchBackground` <br> 5. `editorBracketMatch.background` <br> 6. `menubar.selectionBackground` |
-| `#546E7A` 🌫️ | 1. `editorWhitespace.foreground` |
-| `#142025` 🌑 | 1. `activityBar.background` <br> 2. `titleBar.activeBackground` |
-| `#1b1708` 🌰 | 1. `tab.activeBackground` |
+| `#f5f4f3` 🤍 | 1. `sideBar.foreground` <br> 2. `statusBar.foreground` <br> 3. `activityBar.foreground` <br> 4. `menubar.selectionForeground` <br> 5. `titleBar.activeForeground` <br> 6. `tab.activeForeground`                                                                            |
+| `#379ED1` 🔹 | 1. `statusBarItem.hoverBackground` <br> 2. `statusBarItem.prominentHoverBackground` <br> 3. `editor.selectionBackground` <br> 4. `editor.findMatchBackground` <br> 5. `editorBracketMatch.background` <br> 6. `menubar.selectionBackground`                                 |
+| `#546E7A` 🌫️ | 1. `editorWhitespace.foreground`                                                                                                                                                                                                                                            |
+| `#142025` 🌑 | 1. `activityBar.background` <br> 2. `titleBar.activeBackground`                                                                                                                                                                                                             |
+| `#1b1708` 🌰 | 1. `tab.activeBackground`                                                                                                                                                                                                                                                   |
 
 ## Usage
 
