@@ -2,7 +2,8 @@
   "name": "cosmic-penguin-theme",
   "displayName": "Cosmic Penguin Theme",
   "description": "A sleek dark theme with vibrant accents, designed to give your code a refreshing yet focused look. Cosmic Penguin combines deep, space-inspired colors with pops of brightness to keep you engaged without being overwhelming. Perfect for late-night coding or long work sessions.",
-  "version": "0.0.1",
+  "version": "0.9.0",
+  "publisher": "scrodrig",
   "engines": {
     "vscode": "^1.102.0"
   },
