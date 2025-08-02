@@ -10,7 +10,7 @@ Cosmic Penguin Theme is a sleek, dark theme for **Visual Studio Code** inspired 
 
 To install **Cosmic Penguin Theme**, follow these steps:
 
-1. Download the theme by cloning the repository or downloading the ZIP.
+1. Download the theme by cloning the repository or downloading the `VSIX`.
 2. Open **Visual Studio Code** and go to the extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X`).
 3. Click the ellipsis (…) in the top right and select **Install from VSIX**.
 4. Choose the `.vsix` file you downloaded.
