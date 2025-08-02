@@ -2,6 +2,10 @@
 
 Cosmic Penguin Theme is a sleek, dark theme for **Visual Studio Code** inspired by the cosmos. It combines deep, space-like colors with vibrant accents to keep your workspace both focused and energetic.
 
+
+<img width="1024" height="1536" alt="CosmicPenguin" src="https://github.com/user-attachments/assets/0d74d19e-9fbe-4073-b90d-2ab95e0c8c0c" />
+
+
 ## Installation
 
 To install **Cosmic Penguin Theme**, follow these steps:
